@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@skuflang/cli": ["packages/cli/src/index.ts"],
       "@skuflang/compiler": ["packages/compiler/src/index.ts"]
     }
   },

@@ -1,1 +1,1 @@
-export * from './lib/compiler';
+export { run } from './lib/run';

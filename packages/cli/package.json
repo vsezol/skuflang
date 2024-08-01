@@ -1,0 +1,8 @@
+{
+  "name": "@skuflang/cli",
+  "version": "0.0.1",
+  "dependencies": {},
+  "type": "commonjs",
+  "main": "./index.cjs",
+  "bin": "./index.cjs"
+}
